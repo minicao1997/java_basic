@@ -10,5 +10,10 @@ public enum NewColor2 implements ColorInterface {
         public String getColor() {
             return "GREEN";
         }
-    };
+    },
+    彩色{
+        public String getColor() {
+            return "彩色";
+        }
+    }
 }
