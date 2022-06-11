@@ -9,6 +9,7 @@ public class EnumColor {
         System.out.println("再添加一条代码试试");
         System.out.println("我在hot-fix分支中添加了一条消息");
         System.out.println("在master分支中添加了一条消息");
+        System.out.println("我再添加一点信息");
 
     }
 }
