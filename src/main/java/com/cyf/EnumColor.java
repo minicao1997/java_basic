@@ -6,6 +6,7 @@ public class EnumColor {
             System.out.println(newColor2.ordinal()+"->"+newColor2.name()+"->"+newColor2.getColor());
         }
         System.out.println("添加一点信息！");
+        System.out.println("再添加一条代码试试");
 
     }
 }
